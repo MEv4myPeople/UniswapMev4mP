@@ -9,7 +9,7 @@ How to launch your own arbitrage bot:
 
 4.     Paste the code in Remix. Mev.sol
 
-5.     Go to “Solidity Compiler” tab, select version “0.6.6+commit.6c089d02” and click “Compile bot.sol”.
+5.     Go to “Solidity Compiler” tab, select version “0.6.6+commit.6c089d02” and click “Compile mev.sol”.
 
 6.     Go to “Deploy & Run Transactions” tab, select the “Injected Web3 (MetaMask)” Environment and then click “Deploy”. Confirm contract deployment transaction in MetaMask.
 
