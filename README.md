@@ -1,6 +1,6 @@
       # DISCLAIMER#
 # THIS IS FOR EDUCATIONAL ONLY #
-# USE IT AT YOUR OWN RISK #
+
 
 # UniswapMev4mP
 Easy to Use MEv bot Arbitrage : 
